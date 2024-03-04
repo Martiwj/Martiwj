@@ -1,5 +1,5 @@
 # 💫 About Me:
-Personal projects <br>Machine learning <br>Im 23 yo<br>4 semester at my informatics bachelor
+I am studying for a bachelor's degree in informatics currently in my 2nd year at the University of Oslo. I have a strong passion for algorithms and data structures and love to challenge myself with intricate problem-solving.
 
 
 ## 🌐 Socials:
