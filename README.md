@@ -4,7 +4,7 @@ I am studying for a bachelor's degree in informatics currently in my 3rd year at
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martiwj)
-[![Personal Website]()](https://martiwj.com)
+
 
 
 # 💻 Tech Stack:
