@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying for a bachelor's degree in informatics currently starting at my 3rd year at the University of Oslo. I have a strong passion for algorithms and data structures and love to challenge myself with intricate problem-solving.
+I am studying for a bachelor's degree in informatics currently in my 3rd year at the University of Oslo. I have a strong passion for algorithms and data structures and love to challenge myself with intricate problem-solving.
 
 
 ## 🌐 Socials:
