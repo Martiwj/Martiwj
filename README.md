@@ -16,3 +16,4 @@ I am studying for a bachelor's degree in informatics currently in my 3rd year at
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Martiwj&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Martiwj&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
