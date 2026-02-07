@@ -3,6 +3,8 @@ I recently completed my bachelor’s degree in Informatics at the University of 
 
 ## Programming languages:
 
+C++
+
 Python
 
 Java
